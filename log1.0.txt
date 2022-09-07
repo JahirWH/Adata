@@ -1,0 +1,3 @@
+Error al dejar vacio alguna columna y despues bucarla de nuevo crashea
+Error al escribir una contraseña con , lo detecta como una sexta columna
+Falta de traduccion en columnas 

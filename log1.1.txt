@@ -1,0 +1,11 @@
+Mejoras
+Codigo acortado, solo lo necesario
+Busqueda por cada una de las columnas 
+Funciones innecesarias borradas
+Eliminacion de restrictiva para mayor espacio al ver 
+Estable sin alterar o agregar una columna mas a la base de datos
+Posible error con el modulo gettpass
+Busqueda por codigo quitada y agregada a busqueda general 
+
+versiones anteriores
+Adata1.0
