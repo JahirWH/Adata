@@ -1,0 +1,17 @@
+Mejoras 
+-Añadi un generador de numeros random para el enlistado de codigos
+se podria hacer un generador ordenado pero las variables en python
+no son tan sencillas como java
+-recorde de codigo innecesario
+-quite en el buscado por nombre
+el apartado de codigo ya que generar un error al intertar leer
+el codigo random 
+-estable para añadir y modificar contraseñas
+Generador de fecha añadido si se modifica tambien se modifica la fecha
+
+
+Mejora pendiente
+creacion de contraseñas
+Versiones anteriores
+Adata1.0
+Adata1.1 
