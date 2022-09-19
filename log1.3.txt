@@ -1,0 +1,19 @@
+Vercion estable
+Mejoras de Encryptacion 
+Al intentar poner la encryptacion automatica se crea un bucle de desencryptacion
+Recorte de codigo extra
+Encryptacion de alto grado en base de datos manual
+Creacion de clave de encryptacion con el nombre de key.key
+
+
+Futuras mejoras
+Crearlo a sofware pportable windows
+Resolver problemas de bucle en desencryptacion
+posible convinacion con tkinter
+Generador de contraseñas automatico
+Encryptacion automatica 
+
+Versiones anteriores
+Adata1.2
+Adata1.1
+Adata1.0
